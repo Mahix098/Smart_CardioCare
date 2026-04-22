@@ -132,11 +132,9 @@ User Dash-board:
 Entering Heart Details to check our Health:
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/heart_detail_form1.png" />
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/heart_detail_form2.png" />
-
 Prediction Result:
 When the user is Healthy
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/healthy_predict1.png" />
-
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/healthy_predict2.png" />
 
 When the user's heart is at Risk
