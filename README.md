@@ -131,7 +131,6 @@ User Dash-board:
 
 Entering Heart Details to check our Health:
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/heart_detail_form1.png" />
-
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/heart_detail_form2.png" />
 
 Prediction Result:
@@ -142,11 +141,10 @@ When the user is Healthy
 
 When the user's heart is at Risk
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/unhealthy_predict1.png" />
-
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/unhealthy_predict2.png" />
 
 Since these details are stored in the Data-base, so we can also retrieve past results:
-<img src="https://Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/history.png" />
+<img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/history.png" />
 
 Doctor Dash-board:
 <img src="https://github.com/Mahix098/Smart_CardioCare/blob/main/SCREENSHOTS/doctor_dash.png" />
